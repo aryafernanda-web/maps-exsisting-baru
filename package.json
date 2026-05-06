@@ -1,0 +1,9 @@
+{
+  "name": "fiber-customer-maps",
+  "version": "2.0.0",
+  "description": "Peta pelanggan fiber FTTH real-time - Vercel",
+  "scripts": {},
+  "dependencies": {
+    "@notionhq/client": "^2.2.15"
+  }
+}
